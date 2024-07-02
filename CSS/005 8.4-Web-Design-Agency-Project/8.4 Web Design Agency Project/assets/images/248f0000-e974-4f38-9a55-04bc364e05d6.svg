@@ -1,0 +1,62 @@
+<svg version="1.1" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500"><rect width="100%" height="100%" fill="#0B123F" fill-opacity="1"/><svg viewBox="142.1488 874.1004 335.3854 221.2302" width="333" height="219.6567191058406" x="83.5px" y="140.1716px" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none"><defs></defs><style>.companyName {fill:#FFFFFF;fill-opacity:1;}.companyName-floo {flood-color:#FFFFFF;flood-opacity:1;}.icon3 {fill:#2317FF;fill-opacity:1;}.icon3-floo {flood-color:#2317FF;flood-opacity:1;}.icon3-str {stroke:#2317FF;stroke-opacity:1;}.shape-floo {flood-color:#FF8000;flood-opacity:1;}.text {fill:#F3F3F3;fill-opacity:1;}</style><defs>
+      <filter
+        x="145.1488"
+        y="874.1004"
+        width="329.3854"
+        height="198"
+        id="RWrrEA-PR"
+        filterUnits="userSpaceOnUse"
+        primitiveUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB">
+        
+    <feGaussianBlur in="SourceGraphic" stdDeviation="6"/>
+    <feOffset dx="0" dy="-8" result="uHjI9eh9zZM"/>
+    <feFlood flood-color="#2317FF" flood-opacity="1" in="uHjI9eh9zZM" />
+    <feComposite  in2="uHjI9eh9zZM" operator="in" result="-eofEX38cTY"/><feMerge result="HuupzFIzpdL"><feMergeNode in="-eofEX38cTY" /><feMergeNode in="SourceGraphic" /></feMerge><feGaussianBlur  result="yBLQniPU5xm" stdDeviation="7" />
+      </filter>
+      <filter
+        x="142.1488"
+        y="891.3306"
+        width="335.3854"
+        height="204"
+        id="ikYEXSHZT"
+        filterUnits="userSpaceOnUse"
+        primitiveUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB">
+        
+    <feGaussianBlur in="SourceGraphic" stdDeviation="7"/>
+    <feOffset dx="0" dy="8.230244223212566" result="DvdAUpeJYgv"/>
+    <feFlood flood-color="#FF8000" flood-opacity="1" in="DvdAUpeJYgv" />
+    <feComposite  in2="DvdAUpeJYgv" operator="in" result="yNjq8kO6Adn"/><feMerge result="fyzSNAHU3sm"><feMergeNode in="yNjq8kO6Adn" /><feMergeNode in="SourceGraphic" /></feMerge><feGaussianBlur  result="Vz4e3XgwO2D" stdDeviation="7" />
+      </filter>
+      <filter
+        x="166.1488"
+        y="903.1004"
+        width="287.3854"
+        height="156"
+        id="tUk6sjh6M"
+        filterUnits="userSpaceOnUse"
+        primitiveUnits="userSpaceOnUse"
+        color-interpolation-filters="sRGB">
+        
+    <feGaussianBlur in="SourceGraphic" stdDeviation="6"/>
+    <feOffset dx="0" dy="0" result="oZ-F78m7cnf"/>
+    <feFlood flood-color="#FFFFFF" flood-opacity="1" in="oZ-F78m7cnf" />
+    <feComposite  in2="oZ-F78m7cnf" operator="in" result="U6M0452GsW3"/><feMerge result="SP0eolVzbOn"><feMergeNode in="U6M0452GsW3" /><feMergeNode in="SourceGraphic" /></feMerge>
+      </filter></defs><g opacity="1" transform="rotate(0 262.2561 1069.1004)">
+<svg width="95.1709" height="22.8" x="262.2561" y="1069.1004" version="1.1" preserveAspectRatio="none" viewBox="1.36 -28 118.2 28.32">
+  <g transform="matrix(1 0 0 1 0 0)" class="text"><path id="id-6izo4zJp5" d="M11.84-2.40L11.84-2.40Q13.76-2.40 15.24-3.48Q16.72-4.56 17.40-6.28L17.40-6.28L20.64-6.28Q19.72-3.32 17.28-1.52L17.28-1.52Q14.72 0.32 11.20 0.32L11.20 0.32Q6.80 0.32 4.04-2.68L4.04-2.68Q1.36-5.60 1.36-10L1.36-10Q1.36-14.40 4.04-17.32L4.04-17.32Q6.80-20.32 11.20-20.32L11.20-20.32Q14.72-20.32 17.28-18.48L17.28-18.48Q19.72-16.68 20.64-13.72L20.64-13.72L17.40-13.72Q16.72-15.44 15.24-16.52Q13.76-17.60 11.84-17.60Q9.92-17.60 8.58-17Q7.24-16.40 6.32-15.36L6.32-15.36Q4.36-13.20 4.36-10L4.36-10Q4.36-6.80 6.32-4.64L6.32-4.64Q8.32-2.40 11.84-2.40Z M37.04-20.32L37.04-20.32Q41.52-20.32 44.32-17.32L44.32-17.32Q46.96-14.44 46.96-10L46.96-10Q46.96-5.56 44.32-2.68L44.32-2.68Q41.52 0.32 37.04 0.32L37.04 0.32Q32.56 0.32 29.76-2.68L29.76-2.68Q27.12-5.56 27.12-10L27.12-10Q27.12-14.44 29.76-17.32L29.76-17.32Q32.56-20.32 37.04-20.32ZM37.04-2.40L37.04-2.40Q40.28-2.40 42.16-4.64L42.16-4.64Q43.96-6.76 43.96-10L43.96-10Q43.96-13.24 42.16-15.36L42.16-15.36Q40.28-17.60 37.04-17.60L37.04-17.60Q33.80-17.60 31.92-15.36L31.92-15.36Q30.12-13.24 30.12-10L30.12-10Q30.12-6.76 31.92-4.64L31.92-4.64Q33.80-2.40 37.04-2.40Z M70.52 0L70.52-3.20Q68.12 0.32 63.36 0.32L63.36 0.32Q59.04 0.32 56.32-2.68L56.32-2.68Q53.68-5.64 53.68-10L53.68-10Q53.68-14.36 56.32-17.32L56.32-17.32Q59.04-20.32 63.56-20.32Q68.08-20.32 70.52-16.76L70.52-16.76L70.52-28L73.52-28L73.52 0L70.52 0ZM63.76-2.40L63.76-2.40Q67-2.40 68.88-4.64L68.88-4.64Q70.68-6.76 70.68-10L70.68-10Q70.68-13.24 68.88-15.36L68.88-15.36Q67-17.60 63.76-17.60L63.76-17.60Q60.56-17.60 58.56-15.36L58.56-15.36Q56.68-13.24 56.68-10L56.68-10Q56.68-6.76 58.56-4.64L58.56-4.64Q60.56-2.40 63.76-2.40Z M91.64-2.40L91.64-2.40Q95.68-2.40 97.44-5.76L97.44-5.76L100.72-5.76Q99.68-3.04 97.42-1.36Q95.16 0.32 91.60 0.32L91.60 0.32Q87.08 0.32 84.24-2.68L84.24-2.68Q81.48-5.60 81.48-10L81.48-10Q81.48-14.44 84.12-17.32L84.12-17.32Q86.92-20.32 91.40-20.32L91.40-20.32Q95.88-20.32 98.68-17.32L98.68-17.32Q101.32-14.44 101.32-10L101.32-10L101.32-8.80L84.56-8.80Q84.88-6.04 86.76-4.24L86.76-4.24Q88.68-2.40 91.64-2.40ZM91.40-17.60L91.40-17.60Q88.64-17.60 86.76-15.88L86.76-15.88Q85-14.24 84.60-11.60L84.60-11.60L98.20-11.60Q97.80-14.24 96.04-15.88L96.04-15.88Q94.16-17.60 91.40-17.60Z M119.36-20.32L119.56-20.32L119.56-17.32L119.20-17.32Q115.96-17.32 113.92-14.72L113.92-14.72Q112-12.24 112-8.80L112-8.80L112 0L109 0L109-20L112-20L112-15.08Q112.96-18.20 116.16-19.68L116.16-19.68Q117.48-20.32 119.36-20.32L119.36-20.32Z"/></g>
+</svg>
+</g><g filter="url(#RWrrEA-PR)"><g opacity="1" transform="rotate(0 184.1488 921.1004)">
+<svg width="251.3854" height="120" x="184.1488" y="921.1004" version="1.1" preserveAspectRatio="none" viewBox="0.4102 -32.4023 67.87889999999999 32.4023">
+  <g transform="matrix(1 0 0 1 0 0)" class="icon3"><path id="id-KYFLWsHjp2" d="M0.41 0L14.75-30.53L21.31-30.53L36.07 0L29.57 0L27.13-5.14L9.30-5.14L6.93 0L0.41 0ZM11.66-10.23L24.69-10.23L18.09-24.10L11.66-10.23Z M42.12 0L42.12-32.40L47.90-32.40L47.90-13.26L58.68-23.05L67.53-23.05L55.48-12.27L68.29 0L59.62 0L51.04-8.30L47.90-5.49L47.90 0L42.12 0Z"/></g>
+</svg>
+</g></g><g filter="url(#ikYEXSHZT)"><g opacity="1" transform="rotate(0 184.1488 925.1004)">
+<svg width="251.3854" height="120" x="184.1488" y="925.1004" version="1.1" preserveAspectRatio="none" viewBox="0.4102 -32.4023 67.87889999999999 32.4023">
+  <g transform="matrix(1 0 0 1 0 0)" class="icon3"><path id="id-BEGfasMba2" d="M0.41 0L14.75-30.53L21.31-30.53L36.07 0L29.57 0L27.13-5.14L9.30-5.14L6.93 0L0.41 0ZM11.66-10.23L24.69-10.23L18.09-24.10L11.66-10.23Z M42.12 0L42.12-32.40L47.90-32.40L47.90-13.26L58.68-23.05L67.53-23.05L55.48-12.27L68.29 0L59.62 0L51.04-8.30L47.90-5.49L47.90 0L42.12 0Z"/></g>
+</svg>
+</g></g><g filter="url(#tUk6sjh6M)"><g opacity="1" transform="rotate(0 184.1488 921.1004)">
+<svg width="251.3854" height="120" x="184.1488" y="921.1004" version="1.1" preserveAspectRatio="none" viewBox="0.4102 -32.4023 67.87889999999999 32.4023">
+  <g transform="matrix(1 0 0 1 0 0)" class="companyName"><path id="id-D6z1nYkh2" d="M0.41 0L14.75-30.53L21.31-30.53L36.07 0L29.57 0L27.13-5.14L9.30-5.14L6.93 0L0.41 0ZM11.66-10.23L24.69-10.23L18.09-24.10L11.66-10.23Z M42.12 0L42.12-32.40L47.90-32.40L47.90-13.26L58.68-23.05L67.53-23.05L55.48-12.27L68.29 0L59.62 0L51.04-8.30L47.90-5.49L47.90 0L42.12 0Z"/></g>
+</svg>
+</g></g></svg></svg>

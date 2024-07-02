@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grid Placement</title>
+  <style>
+    body {
+      padding: 0;
+      margin: 0;
+    }
+
+    .container {
+      height: 100vh;
+      display: grid;
+      gap: 2rem;
+      grid-template-columns: 1fr 1fr 1.5fr;
+      grid-template-rows: 1fr 1fr;
+      background-color:aliceblue;
+     
+    }
+
+    .item {
+      font-size: 5rem;
+      color: white;
+      font-family: Arial, Helvetica, sans-serif;
+      background-color: blueviolet;
+      /* TODO: Use Flexbox to align the text to the center horizontally and vertically. 
+      See goal1 image.
+      */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 3%;
+    }
+    .cowboy{
+      background-color: rgb(113, 255, 201);
+      grid-column-start: 1;
+      grid-column-end: 3;
+    }
+    .book{
+      background-color: rgb(135, 145, 83);
+      grid-column-start: 1;
+      grid-column-end: 3;
+    }
+    .astronaut{
+      background-color:rgb(255, 213, 223) ;
+      grid-row:span 2;
+      
+    }
+
+
+  </style>
+</head>
+
+<body>
+  <div class="container">
+    <div class="item cowboy">🤠</div>
+    <div class="item astronaut">👨‍🚀</div>
+    <div class="item book">📖</div>
+  </div>
+</body>
+
+</html>
