@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+    <% if (dayOfWeek === 0 || dayOfWeek === 6) { %>
+        <h1>Hey! It's a weekend. It's a fun day!</h1>
+    <% } else if (dayOfWeek >= 1 && dayOfWeek <= 5) { %>
+        <h1>Hey! It's a weekday. It's time to work hard!</h1>
+    <% } %>
+</body>
+</html>
